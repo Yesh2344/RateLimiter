@@ -1,3 +1,4 @@
+# Minor edit
 #!/bin/bash
 
 # Check if bash is installed
