@@ -1,3 +1,4 @@
+# Minor edit
 #!/bin/bash
 
 # Load configuration from .env file
