@@ -1,3 +1,4 @@
 bash
 curl
 jq
+# Updated dependencies
