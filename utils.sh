@@ -1,3 +1,4 @@
+# Minor edit
 #!/bin/bash
 
 # Function to get the current time in seconds
